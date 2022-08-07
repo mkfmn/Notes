@@ -1,5 +1,7 @@
 # Available options (Internet-related applications and services)
 
+
+
 ## Video
 
 * [Invidio](https://invidio.us). Access to YouTube, advertised as "ads-free, privacy-friendly". Extension for Firefox avaialble ([Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/)).
@@ -8,7 +10,7 @@
 
 * Qwant
 
-* Searx. [List of Searx public instances](https://asciimoo.github.io/searx/user/public_instances.html)
+* Searx(https://searx.github.io/searx/user/index.html). [List of Searx public instances](https://asciimoo.github.io/searx/user/public_instances.html)
 
 ### Web search for research papers
 
